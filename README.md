@@ -51,3 +51,20 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
+
+<hr/>
+
+<h3>📊 GitHub Stats</h3>
+
+<p >
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethamtr&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+<h3>Contributions</h3>
+<p >
+  <!-- Contributions / Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=preethamtr&theme=tokyonight" alt="GitHub Streak" />
+</p>
+<hr/>
+
+ “First, solve the problem. Then, write the code.” – John Johnson
