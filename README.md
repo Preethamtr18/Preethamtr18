@@ -1,7 +1,7 @@
 <h1 >Hi 👋, I'm Preetham T R</h1>
 <h3 >A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **AI-Powered Code Reviewer**
+- 🔭 I’m currently working on **AI-Powered Code Reviewer**,**VoxBiz**
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 - 💬 Ask me about **FullStack Development, Data Structures And Algorithms**
 - 📫 Reach me at **preethamtr72@gmail.com**
