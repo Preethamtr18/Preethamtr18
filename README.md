@@ -58,7 +58,7 @@
 
 <p >
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethamtr&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethamtr18&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <h3>Contributions</h3>
 <p >
