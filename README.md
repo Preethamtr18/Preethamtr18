@@ -63,7 +63,7 @@
 <h3>Contributions</h3>
 <p >
   <!-- Contributions / Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=preethamtr&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=preethamtr18&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <hr/>
 
